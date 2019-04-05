@@ -1,4 +1,4 @@
-# this code is optimized for speed
+# this code is optimized for space ... i think...
 
 import time
 from collections import Counter
